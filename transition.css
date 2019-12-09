@@ -83,7 +83,7 @@ section {
     }
 
 #s1 {
-    background: url(../images/newyork.city1.jpg) no-repeat fixed center center;
+    background: url(../newyork.city1.jpg) no-repeat fixed center center;
     background-size: cover;
     display: flex;
     }
@@ -171,7 +171,7 @@ section#trans {
     flex-flow: row wrap;
     justify-content: space-between;
     align-items: center;
-    background: url(../images/newyork.city2.jpg) no-repeat fixed center center;
+    background: url(../newyork.city2.jpg) no-repeat fixed center center;
     background-size: cover;
 }
 
@@ -196,42 +196,42 @@ section#trans {
 }
 
 #f1 { 
-    background: url(../images/background.png) no-repeat center center;
+    background: url(../background.png) no-repeat center center;
 
 }
 
 #f1:hover { 
-    background: url(../images/bg5.jpg) no-repeat center left;
+    background: url(../bg5.jpg) no-repeat center left;
 
 } 
 
 #f2 { 
-    background: url(../images/background.png) no-repeat center center;
+    background: url(../background.png) no-repeat center center;
 
 }       
 
 #f2:hover { 
-    background: url(../images/bg6.jpg) no-repeat center left;
+    background: url(../bg6.jpg) no-repeat center left;
     
 }
     
 #f3 { 
-    background: url(../images/background.png) no-repeat center center;
+    background: url(../background.png) no-repeat center center;
 
 }
 
 #f3:hover { 
-    background: url(../images/bg4.jpg) no-repeat center right;
+    background: url(../bg4.jpg) no-repeat center right;
     
 } 
 
 #f4 { 
-    background: url(../images/background.png) no-repeat center center;
+    background: url(../background.png) no-repeat center center;
 
 }
 
 #f4:hover { 
-    background: url(../images/bg1.jpg) no-repeat center right;
+    background: url(../bg1.jpg) no-repeat center right;
 }
 
 figure h2 { 
